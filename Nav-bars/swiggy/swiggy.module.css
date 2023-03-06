@@ -1,0 +1,34 @@
+.swiggy ul li{
+    list-style: none;
+}
+.swiggy ul li a{
+    text-decoration: none;
+}
+.swiggy ul{
+    display: flex;
+    align-items: center;
+    gap: 80px;
+    height: 75px;
+}
+.swiggy ul li a input{
+    width: 550px;
+    height: 40px;
+    background-color: transparent;
+    border: solid ghostwhite;
+    color: black;
+}
+.swiggy{
+    margin-top: -15px;
+    margin-left: -10px;
+    width: 1538px;
+}
+.swiggy ul li a button{
+    height: 40px;
+    width: 100px;
+    background-color: transparent;
+    border: solid ghostwhite;
+    color: black;
+}
+img{
+    height: 60px;
+}
