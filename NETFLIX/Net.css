@@ -1,0 +1,29 @@
+#hi{
+    
+    background-color:black ; 
+   display: flex; 
+}
+
+#logoimg{
+height: 60px;
+
+
+}
+
+.pinky{
+    display:flex ;
+}
+#none{
+    margin-left: 1200px;
+    margin-top: 30px;
+}
+.signin{
+    background-color: red;
+    height: 31px;
+    font-size: medium;
+}
+.priya{
+    height: 30px;
+    margin-right: 10px;
+    font-size: medium;
+}
