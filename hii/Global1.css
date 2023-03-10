@@ -1,0 +1,29 @@
+
+
+#navimg
+{ 
+   
+   
+   display: flex;
+  
+   
+}
+#mad
+{
+    height: 100px;
+    width: 150px;
+   flex-direction: column;
+}
+img
+{
+height: 150px;
+width: 120px;
+align-items: center;
+}   
+#roy
+{padding: 2px;
+    list-style: circle;
+    border: 2px solid black;
+    font-size: x-small; 
+    text-align: center  ;
+}
